@@ -1,0 +1,17 @@
+body{
+	background:gray;
+	margin: 0;
+	padding: 0;
+}
+
+.boton-saludo{
+	position: absolute;
+	width: 100px;
+	height:auto;
+	border:1px solid green;
+	border-radius:5px;
+	color:yellow;
+	background:black;
+	margin-left: 50%;
+	left:-50px;
+}
